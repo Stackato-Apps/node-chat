@@ -1,7 +1,7 @@
-# Ryan's chat demo for node.js
+# Node Chat
 
-A simple chat application based on node.js with no other
-dependencies. Originally written by the creator of node.js itself.
+A simple chat application in Node.js with no other dependencies.
+Originally written by Ryan Dahl, the creator of Node.js.
 
 ## Local development
 
