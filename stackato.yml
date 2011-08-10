@@ -1,0 +1,7 @@
+name: node-chat
+
+framework:
+  type: node
+
+mem: 64M
+
