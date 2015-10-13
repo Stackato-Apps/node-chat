@@ -7,6 +7,6 @@ Originally written by Ryan Dahl, the creator of Node.js.
 
     node app.js
 
-## Deploying to Stackato
+## Deploying to HPE Helion Stackato
 
-    stackato push node-chat
+    stackato push -n
