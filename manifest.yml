@@ -1,3 +1,4 @@
 applications:
 - name: node-chat
+  host: node-chat-${random-word}
   mem: 64M
