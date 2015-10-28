@@ -1,4 +1,4 @@
 applications:
 - name: node-chat
   docker_image: stackatoapps/node-chat:latest
-  mem: 64M
+  memory: 64M
